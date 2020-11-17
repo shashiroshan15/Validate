@@ -1,0 +1,1 @@
+scala Validate.scala %1
